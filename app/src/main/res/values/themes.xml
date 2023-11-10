@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar"/>
+
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />
+</resources>
